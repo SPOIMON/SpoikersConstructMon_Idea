@@ -1,0 +1,2 @@
+# SpoikersConstructMon_Idea
+Tinker's Construct向けアドオンMOD、Spoikerのアイデアを置いておくリポジトリ
